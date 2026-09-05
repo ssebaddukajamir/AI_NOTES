@@ -760,6 +760,7 @@ plt.show()
 ---
 
 # 3.11 AI Development Tools
+https://www.w3schools.com/datascience/ds_python.asp
 
 Students should become familiar with:
 
