@@ -346,6 +346,7 @@ AI is applied in:
 * https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_overview.htm
 * https://www.geeksforgeeks.org/artificial-intelligence/artificial-intelligence/
 * https://intellipaat.com/blog/how-to-build-an-artificial-intelligence-chatbot/
+* https://www.youtube.com/watch?v=dCsb6Z2n0o8
 ---
 # WEEK 2 — AI, MACHINE LEARNING, DEEP LEARNING AND LEARNING PARADIGMS
 
