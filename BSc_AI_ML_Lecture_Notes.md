@@ -7,8 +7,7 @@
 # PROGRAM INTRODUCTION
 
 ## Course Objectives
-
-The Bachelor of Science in Artificial Intelligence and Machine Learning (B.Sc. AI & ML) program is designed to prepare students to lead the next wave of intelligent innovation. It focuses on building a solid foundation in computer science, data analytics, and algorithmic intelligence while empowering learners to develop smart solutions that transform industries.
+ Artificial Intelligence and Machine Learning ( AI & ML) program is designed to prepare students to lead the next wave of intelligent innovation. It focuses on building a solid foundation in computer science, data analytics, and algorithmic intelligence while empowering learners to develop smart solutions that transform industries.
 
 Graduates will gain the skills to design, train, evaluate, deploy, and maintain AI-driven systems that solve complex real-world problems across healthcare, business, finance, agriculture, manufacturing, robotics, transportation, education, security, and other sectors.
 
