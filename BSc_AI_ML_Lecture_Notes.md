@@ -344,28 +344,6 @@ AI is applied in:
 * Privacy concerns
 * Potential misuse
 
----
-
-## WEEK 1 ACTIVITIES
-
-1. Define AI in your own words.
-2. Differentiate human intelligence from artificial intelligence.
-3. Identify five AI applications in your community.
-4. Discuss the difference between narrow AI and AGI.
-5. Debate: "Can AI replace human intelligence?"
-
-### Review Questions
-
-1. What is artificial intelligence?
-2. List five characteristics of AI.
-3. Explain three goals of AI.
-4. What is AGI?
-5. What is autonomous AI?
-6. Give five applications of AI.
-7. Discuss four advantages and four limitations of AI.
-
----
-
 # WEEK 2 — AI, MACHINE LEARNING, DEEP LEARNING AND LEARNING PARADIGMS
 
 ## 2.1 AI vs ML vs DL
