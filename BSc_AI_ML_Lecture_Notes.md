@@ -343,7 +343,7 @@ AI is applied in:
 * Security risks
 * Privacy concerns
 * Potential misuse
-
+---
 # WEEK 2 — AI, MACHINE LEARNING, DEEP LEARNING AND LEARNING PARADIGMS
 
 ## 2.1 AI vs ML vs DL
