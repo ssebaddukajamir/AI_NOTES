@@ -215,7 +215,7 @@ Major goals include:
 * Developing autonomous systems
 * Improving productivity
 * Enabling intelligent interaction
-
+https://www.geeksforgeeks.org/artificial-intelligence/what-is-artificial-intelligence-ai/
 ---
 
 ## 1.5 History of AI
@@ -245,7 +245,7 @@ Large datasets and powerful GPUs enabled deep neural networks to achieve strong 
 ### Generative AI Era
 
 Modern AI systems can generate text, images, audio, video and software.
-
+https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_history_and_evolution.htm
 ---
 
 ## 1.6 Types of AI
@@ -253,6 +253,7 @@ Modern AI systems can generate text, images, audio, video and software.
 ### Based on Capability
 
 #### Artificial Narrow Intelligence
+https://www.geeksforgeeks.org/artificial-intelligence/what-is-narrow-ai/
 
 Designed to perform specific tasks.
 
@@ -264,17 +265,17 @@ Examples:
 * Voice assistants
 
 #### Artificial General Intelligence
-
+https://www.geeksforgeeks.org/artificial-intelligence/what-is-artificial-general-intelligence-agi/
 AGI is a theoretical form of AI capable of general learning and reasoning across a broad range of tasks. The source identifies AGI as a theoretical form of AI with capabilities approaching general human-like intelligence.
 
 #### Artificial Superintelligence
-
+https://www.geeksforgeeks.org/blogs/what-is-artificial-super-intelligence-asi/
 A hypothetical intelligence exceeding human capabilities across most intellectual domains.
 
 ---
 
 ## 1.7 AI Applications
-
+https://www.geeksforgeeks.org/blogs/applications-of-ai/
 AI is applied in:
 
 ### Healthcare
@@ -351,7 +352,7 @@ AI is applied in:
 # WEEK 2 — AI, MACHINE LEARNING, DEEP LEARNING AND LEARNING PARADIGMS
 
 ## 2.1 AI vs ML vs DL
-
+https://www.geeksforgeeks.org/artificial-intelligence/artificial-intelligence-vs-machine-learning-vs-deep-learning/
 AI is the broad field.
 
 Machine Learning is a subset of AI.
@@ -387,6 +388,7 @@ After training:
 # 2.3 Learning Paradigms
 
 ## Supervised Learning
+https://www.geeksforgeeks.org/machine-learning/supervised-machine-learning/
 
 The model learns from labelled data.
 
@@ -412,7 +414,7 @@ The source describes supervised learning as training using labelled datasets to 
 ---
 
 ## Unsupervised Learning
-
+https://www.geeksforgeeks.org/machine-learning/unsupervised-learning/
 The dataset contains no target labels.
 
 The algorithm discovers patterns or structures.
@@ -429,7 +431,7 @@ The source identifies K-Means, PCA, hierarchical clustering and DBSCAN among uns
 ---
 
 ## Semi-Supervised Learning
-
+https://www.geeksforgeeks.org/machine-learning/ml-semi-supervised-learning/
 Uses:
 
 * Small labelled dataset
@@ -442,6 +444,7 @@ The source explicitly describes semi-supervised learning as combining labelled a
 ---
 
 # 2.4 Self-Supervised Learning
+https://www.geeksforgeeks.org/machine-learning/self-supervised-learning-ssl/
 
 Self-supervised learning is particularly important in modern AI.
 
@@ -471,7 +474,7 @@ Self-supervised learning is widely useful because large quantities of unlabelled
 ---
 
 # 2.5 Reinforcement Learning
-
+https://www.geeksforgeeks.org/machine-learning/what-is-reinforcement-learning/
 An agent interacts with an environment.
 
 The agent:
@@ -554,7 +557,8 @@ Students should classify each problem as:
 # WEEK 3 — PYTHON PROGRAMMING FOR AI
 
 Python is widely used for AI because of its simple syntax and extensive ecosystem. The source specifically introduces variables, data types, operators, loops, functions and data structures.
-
+https://www.geeksforgeeks.org/python/introduction-to-python/
+https://www.w3schools.com/python/python_ml_data_distribution.asp
 ---
 
 ## 3.1 Variables
